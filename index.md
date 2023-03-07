@@ -1,4 +1,2 @@
----
-title: "First Post"
-date: 2023-02-28
----
+Just some text
+to test the index
